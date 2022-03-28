@@ -36,7 +36,7 @@ const Me = {
   },
   architecture: ['MVC', 'REST', 'SPA'],
   hobbies: [Cycling, Coding, Reading],
-  challenge: "Get the best opportunity to show my qualities programming",
+  challenge: "Get the best opportunity to show my programming qualities.",
 };
 ```
 
