@@ -18,7 +18,7 @@ Project Specialist from Bolivarian Pontifical University - UPB
 
 ### About me
 
-<p>I am a Computer Science Engineer with 25 years of experience in Infrastructure Technology Fleld. Lately I’ve been taking a BootCamp Training at Henry Institute in FullStack Developer technologies like React, Javascript, Nodejs, HTML, CSS, Bootstrap and so on.</p>
+<p>I am a Computer Science Engineer with 25 years of experience in Infrastructure Technology Fleld. Lately I’ve been attending a BootCamp Training at Henry Institute in FullStack Developer technologies like React, Javascript, Nodejs, HTML, CSS, Bootstrap and so on.</p>
 <p> If you like, we can get in touch via my social media above.</p>
 <hr>
 
