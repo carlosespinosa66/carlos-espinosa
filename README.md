@@ -2,7 +2,7 @@
 
 This is my personal / profesional information
 
-<h2> Hi, I'm </h2>
+<h2> Hi, it's me. </h2>
 <p>Compute science Engineer from San Buenaventura University – USB. </br>
 Project Specialist from Bolivarian Pontifical University - UPB
 </p> 
