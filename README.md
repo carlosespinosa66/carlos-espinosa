@@ -1,6 +1,6 @@
 # Carlos Mario Espinosa Restrepo.
 
-This is my personal / profesional information
+This is my profesional information
 
 <h2> Hi, it's me. </h2>
 <p>Compute science Engineer from San Buenaventura University – USB. </br>
@@ -11,8 +11,8 @@ Project Specialist from Bolivarian Pontifical University - UPB
 
 [![Linkedin: Carlos Mario Espinosa R.](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosespinosa66/)](https://www.linkedin.com/in/carlosespinosa66/)
 [![WhatsAPP Carlos Mario Espinosa Restrepo. ](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=573113342883&text&app_absent=0)](https://api.whatsapp.com/send/?phone=573113342883&text&app_absent=0)
-[![Mail: Axel Lois](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosespinosa66@outlook.com)](mailto:carlosespinosa66@outlook.com)
-
+[![Mail: Carlos Mario Espinosa Restrepo ](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosespinosa66@outlook.com)](mailto:carlosespinosa66@outlook.com)
+[![Twitter: Carlos Mario Espinosa R.](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/in/carlosespinosa66/)](https://twitter.com/carlosmario66)
 
 </br>
 
